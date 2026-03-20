@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there! I'm Tayyab 👋
+
+🎓 Computer Science Student (2025-CS-1163)
+🚀 GSoC 2026 Applicant @ webpack
+💻 Passionate about Web Development
+🌱 Currently learning JavaScript & TypeScript
+⚡ Open Source Enthusiast
 
 <!--
 **tayyab350/tayyab350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
